@@ -1,0 +1,14 @@
+C:\Users\skeych\Desktop\c-sharp_labs\lab_1\lab_1_console\lab_1_console\bin\Debug\netcoreapp3.1\lab_1_console.exe
+C:\Users\skeych\Desktop\c-sharp_labs\lab_1\lab_1_console\lab_1_console\bin\Debug\netcoreapp3.1\lab_1_console.deps.json
+C:\Users\skeych\Desktop\c-sharp_labs\lab_1\lab_1_console\lab_1_console\bin\Debug\netcoreapp3.1\lab_1_console.runtimeconfig.json
+C:\Users\skeych\Desktop\c-sharp_labs\lab_1\lab_1_console\lab_1_console\bin\Debug\netcoreapp3.1\lab_1_console.runtimeconfig.dev.json
+C:\Users\skeych\Desktop\c-sharp_labs\lab_1\lab_1_console\lab_1_console\bin\Debug\netcoreapp3.1\lab_1_console.dll
+C:\Users\skeych\Desktop\c-sharp_labs\lab_1\lab_1_console\lab_1_console\bin\Debug\netcoreapp3.1\lab_1_console.pdb
+C:\Users\skeych\Desktop\c-sharp_labs\lab_1\lab_1_console\lab_1_console\obj\Debug\netcoreapp3.1\lab_1_console.csprojAssemblyReference.cache
+C:\Users\skeych\Desktop\c-sharp_labs\lab_1\lab_1_console\lab_1_console\obj\Debug\netcoreapp3.1\lab_1_console.AssemblyInfoInputs.cache
+C:\Users\skeych\Desktop\c-sharp_labs\lab_1\lab_1_console\lab_1_console\obj\Debug\netcoreapp3.1\lab_1_console.AssemblyInfo.cs
+C:\Users\skeych\Desktop\c-sharp_labs\lab_1\lab_1_console\lab_1_console\obj\Debug\netcoreapp3.1\lab_1_console.csproj.CoreCompileInputs.cache
+C:\Users\skeych\Desktop\c-sharp_labs\lab_1\lab_1_console\lab_1_console\obj\Debug\netcoreapp3.1\lab_1_console.dll
+C:\Users\skeych\Desktop\c-sharp_labs\lab_1\lab_1_console\lab_1_console\obj\Debug\netcoreapp3.1\lab_1_console.pdb
+C:\Users\skeych\Desktop\c-sharp_labs\lab_1\lab_1_console\lab_1_console\obj\Debug\netcoreapp3.1\lab_1_console.genruntimeconfig.cache
+C:\Users\skeych\Desktop\c-sharp_labs\lab_1\lab_1_console\lab_1_console\bin\Debug\netcoreapp3.1\DataFile.txt
