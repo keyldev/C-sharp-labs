@@ -1,0 +1,15 @@
+C:\Users\skeych\Desktop\c-sharp_labs\lab_2\lab_2_types\lab_2_types\obj\Debug\MainWindow.g.cs
+C:\Users\skeych\Desktop\c-sharp_labs\lab_2\lab_2_types\lab_2_types\obj\Debug\App.g.cs
+C:\Users\skeych\Desktop\c-sharp_labs\lab_2\lab_2_types\lab_2_types\obj\Debug\lab_2_types_MarkupCompile.cache
+C:\Users\skeych\Desktop\c-sharp_labs\lab_2\lab_2_types\lab_2_types\obj\Debug\lab_2_types_MarkupCompile.lref
+C:\Users\skeych\Desktop\c-sharp_labs\lab_2\lab_2_types\lab_2_types\bin\Debug\lab_2_types.exe.config
+C:\Users\skeych\Desktop\c-sharp_labs\lab_2\lab_2_types\lab_2_types\bin\Debug\lab_2_types.exe
+C:\Users\skeych\Desktop\c-sharp_labs\lab_2\lab_2_types\lab_2_types\bin\Debug\lab_2_types.pdb
+C:\Users\skeych\Desktop\c-sharp_labs\lab_2\lab_2_types\lab_2_types\obj\Debug\MainWindow.baml
+C:\Users\skeych\Desktop\c-sharp_labs\lab_2\lab_2_types\lab_2_types\obj\Debug\lab_2_types.g.resources
+C:\Users\skeych\Desktop\c-sharp_labs\lab_2\lab_2_types\lab_2_types\obj\Debug\lab_2_types.Properties.Resources.resources
+C:\Users\skeych\Desktop\c-sharp_labs\lab_2\lab_2_types\lab_2_types\obj\Debug\lab_2_types.csproj.GenerateResource.cache
+C:\Users\skeych\Desktop\c-sharp_labs\lab_2\lab_2_types\lab_2_types\obj\Debug\lab_2_types.csproj.CoreCompileInputs.cache
+C:\Users\skeych\Desktop\c-sharp_labs\lab_2\lab_2_types\lab_2_types\obj\Debug\lab_2_types.exe
+C:\Users\skeych\Desktop\c-sharp_labs\lab_2\lab_2_types\lab_2_types\obj\Debug\lab_2_types.pdb
+C:\Users\skeych\Desktop\c-sharp_labs\lab_2\lab_2_types\lab_2_types\obj\Debug\lab_2_types.csprojAssemblyReference.cache
